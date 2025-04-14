@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 30 11:17:49 2024
 
-@author: rajwa
-"""
 
 from rest_framework import serializers
 from .models import CustomUser, Student, Teacher, Attendance
