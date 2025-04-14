@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 30 11:17:12 2024
 
-@author: rajwa
-"""
 
 from django.db import models
 from django.contrib.auth.models import AbstractUser
