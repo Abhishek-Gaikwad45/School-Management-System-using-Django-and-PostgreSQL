@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 30 11:20:45 2024
 
-@author: rajwa
-"""
 
 from django.contrib import admin
 from .models import CustomUser, Student, Teacher, Attendance
