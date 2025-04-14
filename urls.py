@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 30 11:19:15 2024
 
-@author: rajwa
-"""
 
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
