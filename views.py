@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 30 11:18:43 2024
 
-@author: rajwa
-"""
 
 from rest_framework import viewsets
 from rest_framework.permissions import IsAuthenticated
