@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 30 11:20:02 2024
 
-@author: rajwa
-"""
 
 import os
 from celery import Celery
